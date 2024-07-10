@@ -47,16 +47,19 @@ disableKinds = ["taxonomy"]
         title = "Education"
 
         [[params.education.list]]
-        degree = "Masters in Degree 1"
-        college = "University Number 1"
-        dates = "2016 - 2018"
-        thesis_title = "Title of the dissertation"
-        thesis_link = "#"
+        degree = "Doctors in Degree"
+        college = "Shanghai Jiao Tong University"
+        dates = "2021 - 2025"
 
         [[params.education.list]]
-        degree = "Bachelors in Degree 2"
-        college = "University Number 2"
-        dates = "2010 - 2014"
+        degree = "Masters in Degree"
+        college = "Minzu University of China"
+        dates = "2018 - 2021"
+	
+        [[params.education.list]]
+        degree = "Bachelors in Degree"
+        college = "Shanghai International Studies Univeristy"
+        dates = "2014 - 2018"
 
     # Languages section
     [params.language]
@@ -64,11 +67,11 @@ disableKinds = ["taxonomy"]
 
         [[params.language.list]]
         language = "English"
-        level = "Fluent"
+        level = "TEM (Test for English Major) 8"
 				
         [[params.language.list]]
-        language = "Bird"
-        level = "Basic"
+        language = "Chinese"
+        level = "Native"
 
     # Interests section
     [params.hobbies]
